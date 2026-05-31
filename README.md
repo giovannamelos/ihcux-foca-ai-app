@@ -14,6 +14,7 @@ Inicia o cronômetro de foco.
 Durante a sessão, acompanha o crescimento da árvore virtual e o progresso do grupo.
 Ao finalizar o ciclo, visualiza suas conquistas e o tempo ganho.
 Caso tente sair antes do término, recebe uma mensagem de incentivo para continuar focado.
+
 Escolha de Componentes
 
 Foram utilizados interruptores (switches) para o bloqueio de aplicativos, pois permitem ativar ou desativar opções de forma rápida e intuitiva, exigindo menos esforço cognitivo do usuário.
