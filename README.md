@@ -5,6 +5,7 @@ O aplicativo FocaAí foi projetado com base nos princípios de Calm Technology, 
 Em vez de exibir métricas negativas, como horas perdidas no celular, o aplicativo mostra o tempo ganho para a vida real, incentivando uma percepção positiva da produtividade. Além disso, as animações são suaves e discretas, transmitindo uma sensação de calma e concentração durante o uso.
 
 Fluxo de Usuário
+
 O usuário acessa o Dashboard Principal.
 Define quais aplicativos serão bloqueados durante a sessão de foco.
 Escolhe o ambiente desejado (sons relaxantes, como chuva, café ou floresta).
